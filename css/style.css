@@ -128,7 +128,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	padding: 5px 0;
 	border: 2px solid transparent;
 	letter-spacing: 0.5px;
-	margin: 10px 15px 0 15px;
+	margin: 10px 10px 0 0;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
 	color: #8eb640;
